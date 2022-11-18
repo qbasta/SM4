@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zadania do wykonania</string>
+    <string name="hello_blank_fragment">Empty</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_name_hint">Podaj nazwę zadania:</string>
+    <string name="task_details"> O zadaniu:</string>
+    <string name="task_done">Zadanie wykonane</string>
+    <string name="title_activity_task_list">Osobiste zadania</string>
+    <string name="task_add_new">Dodaj nowe zadanie</string>
+    <string name="show_subtitle">Pokaż zadania do zrobienia</string>
+    <string name="hide_subtitle">Ukryj zadania do zrobienia</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>

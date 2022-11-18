@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_name_hint">Set task name</string>
+    <string name="app_name">Task list</string>
+    <string name="hello_blank_fragment">Empty</string>
+    <string name="task_name_label">Name</string>
+    <string name="task_details">About task:</string>
+    <string name="task_done">Task completed</string>
+    <string name="title_activity_task_list">Personal task list</string>
+    <string name="task_add_new">Add new task</string>
+    <string name="show_subtitle">Show personal tasks to do</string>
+    <string name="hide_subtitle">Hide personal tasks to do</string>
+    <string name="subtitle_format">%1$d tasks</string>
+</resources>
